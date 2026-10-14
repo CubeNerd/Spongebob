@@ -1,0 +1,17 @@
+.Image1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+.button
+{
+    color: black;
+    background-color: black;
+    border: none;
+}
+body
+{
+    background-color: black;
+}
